@@ -1,4 +1,5 @@
 <settings>
+  <localRepository>/usr/local/repository</localRepository>
   <mirrors>
     <mirror>
       <id>alimvn-central</id>
